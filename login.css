@@ -106,3 +106,12 @@
     padding: 10px 20px;
     border-radius: 10px;
 }
+
+.errorMsg {
+    padding: 0.5rem;
+    background-color: #ad2121;
+    display: none;
+    border: 2px solid red;
+    border-radius: 10px;
+    color: white;
+}
